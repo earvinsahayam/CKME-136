@@ -1,0 +1,11 @@
+@RELATION clean_sentiment_nuclear_power
+
+@ATTRIBUTE tweet_text string
+@ATTRIBUTE sentiment (Positive, Negative, Neutral / author is just sharing information)	
+@ATTRIBUTE sentiment_confidence_summary string
+
+@DATA
+"Hello Japan is a nuclear power plant crisis{link}","Negative","Neutral / author is just sharing information"
+"Renewable Energy Consumption Tops Nuclear for FirstTime {link} is nuclear energy renewable,Neutral / author is just sharing information,Neutral / author is just sharing information
+
+. Will liberals now seek to eliminate dangerous nuclear power plants? {link} green energy news,Neutral / author is just sharing information,Neutral / author is just sharing information
